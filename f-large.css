@@ -5,7 +5,7 @@
 body{
     width: 100%;
     background: url(p2.jpg)no-repeat center center/cover ;
-    position: absolute;
+    position: relative;
     height: 425px;
 }
 /* ------------------------------------navbar--------------------------------- */

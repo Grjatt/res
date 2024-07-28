@@ -1,3 +1,7 @@
+body{
+    position: relative;
+    height: 125px;
+}
 #navbar{
     flex-direction: column;
 }
